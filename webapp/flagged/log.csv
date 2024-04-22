@@ -1,0 +1,4 @@
+test_image,output,flag,username,timestamp
+flagged\test_image\77a114426ecba3abff20\IM-0003-0001.jpeg,"{""label"": ""Normal"", ""confidences"": [{""label"": ""Normal"", ""confidence"": 0.9950688}, {""label"": ""Pneumonia"", ""confidence"": 0.004931179}]}",,,2024-04-21 22:09:58.025290
+flagged\test_image\5dad71ffd2bdf41beab3\IM-0059-0001.jpeg,"{""label"": ""Normal"", ""confidences"": [{""label"": ""Normal"", ""confidence"": 0.9102914}, {""label"": ""Pneumonia"", ""confidence"": 0.089708604}]}",,,2024-04-21 22:10:52.234558
+flagged\test_image\ec04c1095b3164301c9a\NORMAL2-IM-0381-0001.jpeg,"{""label"": ""Normal"", ""confidences"": [{""label"": ""Normal"", ""confidence"": 0.9191977}, {""label"": ""Pneumonia"", ""confidence"": 0.08080235}]}",,,2024-04-21 22:11:24.970846
